@@ -1,0 +1,25 @@
+.label-form {
+    margin: 1rem;
+}
+
+div.poster-area {
+    width: 100%;
+}
+
+div.paper-area {
+    height: 450px;
+    width:  630px;
+    
+/*    x9*/
+    border: solid 1px black;
+}
+
+div.subtitles {
+    height: 50px;
+    width:  630px;
+    background-color: azure;
+}
+
+img.below-panel {
+    width: 100%;
+}
